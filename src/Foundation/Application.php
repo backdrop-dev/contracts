@@ -1,8 +1,8 @@
 <?php
 /**
- * Framework contract.
+ * Application contract.
  *
- * The Framework class should be the primary class for working with
+ * The Application class should be the primary class for working with
  * and launching the app. It also extends the `Container` contract
  *
  * @package   Backdrop
@@ -20,7 +20,7 @@ use Benlumia007\Backdrop\Contracts\Container\Container;
  * @since  1.0.0
  * @access public
  */
-interface Framework extends Container {
+interface Application extends Container {
 	/**
 	 * Adds a service provider.
 	 *
