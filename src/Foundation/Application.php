@@ -12,7 +12,7 @@
  */
 
 namespace Benlumia007\Backdrop\Contracts\Foundation;
-use Benlumia007\Backdrop\Contracts\Container\Container;
+use Benlumia007\Backdrop\Container\Contracts\Container;
 
 /**
  * Application interface
