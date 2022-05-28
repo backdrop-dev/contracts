@@ -1,6 +1,6 @@
 # Backdrop\Contracts
 Backdrop Contracts provides basic interfaces for Backdrop Framework.
-g
+
 ## Requirements
 * ClassicPress 1.0.0 or higher
 * WordPress 4.9 or higher
