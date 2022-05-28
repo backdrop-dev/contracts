@@ -7,7 +7,8 @@
  *
  * @package   Backdrop
  * @author    Benjamin Lu <benlumia007@gmail.com>
- * @copyright Copyright (C) 2019-2021. Benjamin Lu
+ * @copyright 2019-2022. Benjamin Lu
+ * @link      https://github.com/benlumia007/backdrop-contracts
  * @license   https://www.gnu.org/licenses/gpl-2.0.html
  */
 
