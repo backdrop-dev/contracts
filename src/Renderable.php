@@ -28,5 +28,5 @@ interface Renderable {
 	 * @access public
 	 * @return void
 	 */
-	public function render(): string;
+	public function render();
 }

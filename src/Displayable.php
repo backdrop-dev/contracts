@@ -28,5 +28,5 @@ interface Displayable {
 	 * @access public
 	 * @return void
 	 */
-	public function display(): void;
+	public function display();
 }
