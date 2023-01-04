@@ -12,7 +12,7 @@
  * @license   https://www.gnu.org/licenses/gpl-2.0.html
  */
 
-namespace Benlumia007\Backdrop\Contracts;
+namespace Backdrop\Contracts;
 
 /**
  * Displayable interface
@@ -28,5 +28,5 @@ interface Displayable {
 	 * @access public
 	 * @return void
 	 */
-	public function display();
+	public function display() : void;
 }

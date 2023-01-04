@@ -13,7 +13,7 @@
  * @license   https://www.gnu.org/licenses/gpl-2.0.html
  */
 
-namespace Benlumia007\Backdrop\Contracts;
+namespace Backdrop\Contracts;
 
 /**
  * Bootable interface.
@@ -29,5 +29,5 @@ interface Bootable {
 	 * @access public
 	 * @return void
 	 */
-	public function boot();
+	public function boot() : void;
 }
