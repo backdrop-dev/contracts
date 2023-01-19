@@ -2,8 +2,9 @@
 /**
  * Displayable contract.
  *
- * Displayable classes should be implemented by a `display()` method.
- * This method should output HTML strings to the screen.
+ * Displayable classes should implement a `display()` method.
+ * The intent of this method is to output an HTML string to the
+ * screen. This data should already be escaped prior to be output.
  *
  * @package   Backdrop
  * @author    Benjamin Lu <benlumia007@gmail.com>
@@ -21,6 +22,7 @@ namespace Backdrop\Contracts;
  * @access public
  */
 interface Displayable {
+
     /**
 	 * Prints the HTML string.
 	 *
@@ -28,5 +30,5 @@ interface Displayable {
 	 * @access public
 	 * @return void
 	 */
-	public function display() : void;
+	public function display();
 }
