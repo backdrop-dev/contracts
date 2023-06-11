@@ -1,4 +1,4 @@
-# Backdrop\Contracts
+# Backdrop Contracts
 Standalone package that provides general usage for the Backdrop Framework.
 
 ## Requirements
