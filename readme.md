@@ -2,10 +2,10 @@
 Standalone package that provides general usage for the Backdrop Framework.
 
 ## Requirements
-* ClassicPress 1.4+
-* WordPress 4.9+
-* PHP 7.0+
-* [Composer](https://getcomposer.org) for managing PHP dependencies.
+* [ClassicPress](https://www.classsicpress.net)
+* [WordPress](https://wordpress.org/)
+* [PHP 7.1](https://www.php.net/releases/7_1_0.php)
+* [Composer](https://getcomposer.org)
 
 ## Copyright and License
 This project is license under GNU GPL, version 2 or higher
