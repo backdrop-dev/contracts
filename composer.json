@@ -1,5 +1,5 @@
 {
-    "name": "benlumia007/backdrop-contracts",
+    "name": "backdrop-dev/contracts",
     "description": "Backdrop Contracts for Backdrop framework.",
     "keywords": [ "classicpress", "wordpress" ],
     "homepage": "https://github.com/benlumia007/backdrop-contracts",
@@ -21,6 +21,6 @@
         }
     },
     "require": {
-        "php": ">=7.0"
+        "php": ">=7.1"
     }
 }
