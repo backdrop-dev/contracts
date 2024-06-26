@@ -9,7 +9,7 @@
  * @package   Backdrop
  * @author    Benjamin Lu <benlumia007@gmail.com>
  * @copyright 2019-2023. Benjamin Lu
- * @link      https://github.com/benlumia007/backdrop-contracts
+ * @link      https://github.com/backdrop-dev/contracts
  * @license   https://www.gnu.org/licenses/gpl-2.0.html
  */
 
@@ -30,5 +30,5 @@ interface Displayable {
 	 * @access public
 	 * @return void
 	 */
-	public function display();
+	public function display(): void;
 }
