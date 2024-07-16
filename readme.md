@@ -10,4 +10,4 @@ Standalone package that provides general usage for the Backdrop Framework.
 ## Copyright and License
 This project is license under GNU GPL, version 2 or higher
 
-2019-2023. Benjamin Lu
+2019-2024. Benjamin Lu
